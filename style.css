@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+#useful apps{
+    background-color: burlywood; width: 100%;
+}
+#games{
+    background-color: aliceblue; width: 100%; 
+}
+img{
+    transition: transform .2s;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
